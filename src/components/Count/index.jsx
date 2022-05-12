@@ -2,11 +2,14 @@ import { useCart } from "../Cart";
 import "./style.scss";
 
 const Count = ({ count }) => {
-  const { increase, decrease, id } = useCart();
+  const { increase, decrease, id, changeValue } = useCart();
   return (
     <div className="count">
       <div className="count__box">
         <input
+          onChange={(e) => {
+            changeValue(id, +e.target.value);
+          }}
           type="number"
           className="count__input"
           min="1"
