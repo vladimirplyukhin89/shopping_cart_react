@@ -10,12 +10,12 @@ This project was finished with [Create React App](https://github.com/facebook/cr
 
 ## Links
 
-<li>Live Site URL: [Vercel](https://shopping-cart-react-mauve.vercel.app).</li>
+- Live Site URL: [Vercel](https://shopping-cart-react-bncj5xaqx-vladimirplyukhin89.vercel.app/).
 
 ### Build with
 
-<li>Semantic HTML5 markup</li>
-<li>SCSS custom properties</li>
-<li>Flexbox</li>
-<li>BEM naming</li>
-<li>React - JS library</li>
+- Semantic HTML5 markup
+- SCSS custom properties
+- Flexbox
+- BEM naming
+- React - JS library
