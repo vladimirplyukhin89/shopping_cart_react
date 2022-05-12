@@ -14,7 +14,7 @@ Live Site URL: [Vercel](https://shopping-cart-react-lhgx2duec-vladimirplyukhin89
 
 ### Build with
 
-Semantic HTML5 markup
+<li>Semantic HTML5 markup</li>
 SCSS custom properties
 Flexbox
 BEM naming
